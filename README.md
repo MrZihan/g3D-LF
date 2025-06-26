@@ -115,11 +115,12 @@ Please follow [ObjectNav](https://github.com/MrZihan/g3D-LF/blob/main/ObjectNav/
 ## Citation
 
 ```bibtex
-@article{wang2024g3d,
-  title={g3D-LF: Generalizable 3D-Language Feature Fields for Embodied Tasks},
+@inproceedings{wang2025g3d,
+  title={g3d-lf: Generalizable 3d-language feature fields for embodied tasks},
   author={Wang, Zihan and Lee, Gim Hee},
-  journal={arXiv preprint arXiv:2411.17030},
-  year={2024}
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={14191--14202},
+  year={2025}
 }
 ```
 
