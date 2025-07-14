@@ -40,7 +40,7 @@
    pip3 install git+https://github.com/NVlabs/tiny-cuda-nn/#subdirectory=bindings/torch
    ```
 
-4. Download the preprocessed data and checkpoints from [Hugging Face](https://huggingface.co/datasets/MrZihanWang/g3D-LF/tree/main) or [TeraBox](https://1024terabox.com/s/1rGWon01qpPZG-ll-TknjGQ).
+4. Download the preprocessed data and checkpoints from [Hugging Face](https://huggingface.co/datasets/MrZihanWang/g3D-LF/tree/main) or [TeraBox](https://1024terabox.com/s/1siccQ6fjdnnxAlPe0KB7rg).
 
 5. (Optional) Download the Pre-training data.
     Download the `Habitat-Matterport 3D Research Dataset (HM3D)` from [habitat-matterport-3dresearch](https://github.com/matterport/habitat-matterport-3dresearch)
