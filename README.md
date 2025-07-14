@@ -8,7 +8,7 @@
 
 <div align=center><img src="https://github.com/MrZihan/g3D-LF/blob/main/Figure/framework.png" width="700px" alt="Figure 2. "/></div>
 
-[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_g3D-LF_Generalizable_3D-Language_Feature_Fields_for_Embodied_Tasks_CVPR_2025_paper.html) [Hugging Face](https://huggingface.co/datasets/MrZihanWang/g3D-LF/tree/main)  [TeraBox](https://1024terabox.com/s/1rGWon01qpPZG-ll-TknjGQ)
+[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_g3D-LF_Generalizable_3D-Language_Feature_Fields_for_Embodied_Tasks_CVPR_2025_paper.html) [Hugging Face](https://huggingface.co/datasets/MrZihanWang/g3D-LF/tree/main)  [TeraBox](https://1024terabox.com/s/1siccQ6fjdnnxAlPe0KB7rg)
 
 ## TODOs
 
